@@ -28,8 +28,8 @@ Utiliza Clean Architecture organizada por features, siguiendo el patrón MVVM.
 ## Capturas de Pantalla
 Registro             |  Búsqueda
 :-------------------------:|:-------------------------:
-![Pantalla de Registro](https://github.com/user-attachments/assets/8d7d61fd-9713-4fa3-a3bb-74fe8afff51c) | ![Pantalla de Búsqueda](https://github.com/user-attachments/assets/2069a40c-7651-4794-8f3a-329829776c4d)
+![Pantalla de Registro](https://github.com/user-attachments/assets/0cdbdc1b-92ae-435a-9568-b8caa843a87b) | ![Pantalla de Búsqueda](https://github.com/user-attachments/assets/15de5f2e-b6f1-4f13-8aae-84c0e48fb4f3)
 
 Desarrollador             |  
 :-------------------------:|
-![Pantalla de Desarrollador](https://github.com/user-attachments/assets/a64e1985-4aba-4512-ab66-27ac48f1a023) |
+![Pantalla de Desarrollador](https://github.com/user-attachments/assets/16a5bab9-4e24-48c3-bd12-970a79494561) |
